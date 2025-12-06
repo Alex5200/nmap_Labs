@@ -1,0 +1,4 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true
+}
