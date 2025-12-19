@@ -38,7 +38,7 @@ roscore
 ```bash
 rosrun turtlesim turtlesim_node
 ```
-
+<img src="turtlesim.png"/>
 **Команда** (в третьем терминале — запуск скрипта движения по квадрату):
 ```bash
 rosrun turtlesim draw_square
